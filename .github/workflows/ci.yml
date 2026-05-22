@@ -27,8 +27,8 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run Linting
-      run: |
-        flake8 src/
+       run: |
+         flake8 .
 
     - name: Run Tests
       run: |
