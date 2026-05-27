@@ -10,3 +10,7 @@ flake8
 scipy
 statsmodels
 dvc
+scikit-learn 
+xgboost 
+shap 
+lime
